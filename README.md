@@ -1,6 +1,9 @@
 # OSX Clock
 Rainmeter clock widget like OSX
 
+## Screenshots
+![Desktop Screenshot](Screenshots/Desktop.png)
+
 ## Configure and customize
 In the main file, you can change the following properties:
 - Time color
